@@ -1,6 +1,12 @@
-<div align=center>
+<div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Boyeon's%20Github!&fontSize=70" />	
 </div>
+
+
+<div align="center>
+	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-	counter&count_bg=%23C841FF&title_bg=%23F588E0&icon=apachespark.svg&icon_color=%23FAF6F6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+
 
 <div align="center">
 
@@ -8,7 +14,7 @@
 
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 
 </div>
