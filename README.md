@@ -4,15 +4,21 @@
 
 <div align="center">
 
-### 👩‍💻 About Me 💜
+## 👩‍💻 About Me 💜
 2022.01.04 ~ SSAFY 9th 
+<br>
+
+<div align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBoyeon-Kimm&count_bg==%23FFDAC7&title_bg=%23FFADAD&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
+</div>
 
 </div>
 
-
+<br>
 <br>
 <div align="center">
 
+## 💪 Skills 🤩
 
 ### ✨ Stacks ✨
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -28,16 +34,21 @@
 </div>
 <br>
 <br>
+
 <div align="center">
-
-### 📨📭 Contact
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-
-
-
-
+	
+### 🌟 Tools 🌟
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+</div>
 
 <br><br>
+
 <div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBoyeon-Kimm&count_bg=%23A154FF&title_bg=%23FD5AF4&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
-</div>
+
+## 📨📭 Contact
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+
+<br><br>
+
+
