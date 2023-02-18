@@ -5,7 +5,8 @@
 <div align="center">
 
 ## 👩‍💻 About Me 💜
-2022.01.04 ~ SSAFY 9th 
+2023.01.04 ~ <br>
+<b>Samsung Software Academy For Youth(SSAFY) 9th</b>
 <br>
 
 <div align="center">
