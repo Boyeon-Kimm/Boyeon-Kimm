@@ -27,10 +27,13 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+<br> 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boyeon-Kimm&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Boyeon-Kimm&theme=buefy&show_icons=true">
+
 
 </div>
 <br>
